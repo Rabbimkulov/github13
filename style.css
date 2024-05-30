@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+    display: flex;
+    height: 100vh;
+}
+.div {
+    border: 1px solid gainsboro;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+.icon {
+    font-size: 50px;
+    filter: drop-shadow(4px 4px 4px rgb(187, 187, 187));
+}
+.p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    filter: drop-shadow(4px 4px 4px rgb(175, 173, 173));
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.button {
+    border: 1px solid orange;
+    padding: 7px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px gainsboro;
+    background-color: rgba(255, 166, 0, 0.645);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+  
